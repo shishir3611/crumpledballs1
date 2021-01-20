@@ -19,6 +19,7 @@ function setup() {
 
 	Paper1 = new Paper();
 
+
 	Engine.run(engine);
 }
 
@@ -30,9 +31,7 @@ function draw() {
   Bin2.display();
   Bin3.display();
   Ground1.display();
-  Paper1.display();
-
- 
+  Paper1.display(); 
 }
 
 
